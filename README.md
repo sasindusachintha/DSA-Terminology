@@ -14,9 +14,13 @@ The goal of this repository is to:
 
 dsa-terminology/
 │
+
 ├── Data-Structures/
+
 ├── Algorithms/
+
 ├── Complexity/
+
 └── README.md
 
 
