@@ -25,7 +25,7 @@ dsa-terminology/
 ## 🔗 Related Repository
 
 💻 **DSA Code Implementations**  
-👉 https://github.com/sasindusachintha/DSA-Project
+👉 [https://github.com/sasindusachintha/DSA-Project](https://github.com/sasindusachintha/DSA-Project/tree/main/src/DSA)
 
 ---
 
