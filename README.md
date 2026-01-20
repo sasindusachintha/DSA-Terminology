@@ -12,7 +12,7 @@ The goal of this repository is to:
 
 ## 📂 Repository Structure
 
-dsa-terminology/
+dsa-terminology
 │
 
 ├── Data-Structures/
