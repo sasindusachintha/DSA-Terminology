@@ -30,7 +30,7 @@ An array is a linear data structure that stores multiple elements of the same ty
 
 ## Initialization
 - arr = new int[5];
-  int[] nums = {1,2,3,4,5};
+- int[] nums = {1,2,3,4,5};
 
 ---
 
