@@ -36,5 +36,24 @@ A linked list is linear data structure, a list of nodes, where each node contain
 
 ---
 
+## Advantages
+- Dyanmic size
+- Efficient insertion and deletion
+- No memory wastage due to fixed size
+
+---
+
+## Disadvantages
+- No random access
+- Extra memory for pointers
+- Slower access compared to arrays
+
+---
+
+## Real-World Applications
+- Implementing stacks and queues
+- Music playlist navigation
+- Undo/ redo functionality
+- Memory management
 
 
