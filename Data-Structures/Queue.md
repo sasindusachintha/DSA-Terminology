@@ -32,3 +32,15 @@ A queue is linear data structure and Abstract Data Type that stores elements in 
 - Size    ->    (returns total number of elements in the queue)
 - Clear   ->    (removes all elements from the queue)
 - Display  ->   (Prints all elements from front to rear) -> Traerse
+
+---
+
+## Time Complexity
+- Enqueue O(1)
+- Dequeu  O(1)
+- Peek    O(1)
+- Search  O(n)
+
+---
+
+## Advantage 
