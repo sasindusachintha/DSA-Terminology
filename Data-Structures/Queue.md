@@ -43,4 +43,24 @@ A queue is linear data structure and Abstract Data Type that stores elements in 
 
 ---
 
-## Advantage 
+## Advantages
+- Efficient data handling.
+- Maintains order of elements.
+- Useful in scheduling tasks.
+
+---
+
+## Disadvantages
+- Limited access
+- Overflow and underflow issues
+- Fixed size in array implementation
+
+---
+
+## Real World Applications
+- CPU scheduling
+- Priner queue
+- Breadth First Search (BFS)
+- Customer service systems
+
+---
