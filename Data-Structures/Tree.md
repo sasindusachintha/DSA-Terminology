@@ -21,3 +21,4 @@ A tree is a non-linear hierarchical data structure consisting of nodes connected
 - Leaf node - Node with no children.
 - Sibling - Nodes with same parent.
 - Edge - Connection between two nodes. 
+- Height - Number of edges in longest path from node to a leaf.
