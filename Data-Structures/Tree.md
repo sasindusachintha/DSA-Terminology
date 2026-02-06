@@ -28,4 +28,18 @@ A tree is a non-linear hierarchical data structure consisting of nodes connected
 - Height of tree - height of the root node.
 - Degree of Node - Number of children a node has.
 - Size of Tree - Total number of nodes in the tree.
-- 
+
+---
+
+## Types of Trees
+- Binary Tree
+- Binary Search Tree
+- AVL Tree
+- Red-Black Tree
+- Heap (Min/ Max)
+- Trie
+- N-ary Tree
+
+---
+
+## Tree Traversal
