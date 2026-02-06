@@ -20,9 +20,12 @@ A tree is a non-linear hierarchical data structure consisting of nodes connected
 - Child - A node connected to a parent is called a child node.
 - Leaf node - Node with no children.
 - Sibling - Nodes with same parent.
-- Edge - Connection between two nodes. 
+- path - Sequence of nodes connected by edges.
+- Edge - Connection between two nodes.
+- Ancestor - Nodes in the path from the root to a given node , excluding the node itself.
+- Descendant - Nodes that are below a given node in the tree.
 - Height of a node - Number of edges in longest path from node to a leaf.
-- Height of tree - height of the root node
-- Degree of Node - Number of children a node has
+- Height of tree - height of the root node.
+- Degree of Node - Number of children a node has.
 - Size of Tree - Total number of nodes in the tree.
 - 
