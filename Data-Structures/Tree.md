@@ -57,3 +57,12 @@ A tree is a non-linear hierarchical data structure consisting of nodes connected
 
 ---
 
+## Time Complexity ( BST- Average Case)
+Search   O(log n)
+Insert   O(log n)
+Delete   O(log n)
+
+---
+
+## Advantages
+- 
