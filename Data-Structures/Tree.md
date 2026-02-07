@@ -43,3 +43,17 @@ A tree is a non-linear hierarchical data structure consisting of nodes connected
 ---
 
 ## Tree Traversal
+- Inorder   (LNR)
+- Preorder  (NLR)
+- Postorder (LRN)
+
+---
+
+## Basic operations
+- Insert
+- Delete
+- Search
+- Traverse
+
+---
+
