@@ -29,3 +29,19 @@ A graph is a non-linear data structure consisting of a set of vertices and a set
 - Connected Graph
 - Disconnected Graph
 - Weight
+
+---
+
+## Graph Representation
+- Adjacency Matrix
+- Adjacency List
+
+---
+
+## Graph Traversal
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+
+---
+
+##
