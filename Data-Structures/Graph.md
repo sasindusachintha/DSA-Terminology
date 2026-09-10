@@ -9,7 +9,7 @@ A graph is a non-linear data structure consisting of a set of vertices and a set
 - Non- linear structure.
 - Can be directed or undirected.
 - May contain cycles.
-- Can be connected or disconnected
+- Can be connected or disconnected.
 
 ---
 
