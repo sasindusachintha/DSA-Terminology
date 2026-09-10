@@ -15,7 +15,7 @@ A graph is a non-linear data structure consisting of a set of vertices and a set
 
 ## Types of Graphs
 - Undirected Graphs.
-- Directed Graphs
+- Directed Graphs.
 - weighted Graph
 
 ---
