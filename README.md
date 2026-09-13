@@ -3,7 +3,7 @@
 This repository contains a structured collection of **Data Structures and Algorithms (DSA) terminology and concepts**, written in my own words while learning and practicing DSA.
 
 The goal of this repository is to:
-- Build strong DSA fundamentals
+- Build strong DSA fundamentals.
 - Act as a quick revision guide
 - Support interview preparation
 - Complement my DSA code implementations
