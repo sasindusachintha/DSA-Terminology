@@ -21,7 +21,7 @@ dsa-terminology
 
 ├── Complexity/
 
-└── README.md
+└── README.md.
 
 
 ---
