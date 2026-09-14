@@ -4,7 +4,7 @@ This repository contains a structured collection of **Data Structures and Algori
 
 The goal of this repository is to:
 - Build strong DSA fundamentals.
-- Act as a quick revision guide
+- Act as a quick revision guide.
 - Support interview preparation
 - Complement my DSA code implementations
 
