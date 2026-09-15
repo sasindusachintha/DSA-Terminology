@@ -35,7 +35,7 @@ dsa-terminology
 
 ## 🛠️ How to Use This Repository
 
-- Browse topics by folder
+- Browse topics by folder.
 - Read concise explanations
 - Use it for revision before interviews
 - Refer alongside coding practice
