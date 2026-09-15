@@ -38,7 +38,7 @@ dsa-terminology
 - Browse topics by folder.
 - Read concise explanations.
 - Use it for revision before interviews.
-- Refer alongside coding practice
+- Refer alongside coding practice.
 
 ---
 
