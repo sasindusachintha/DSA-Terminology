@@ -6,7 +6,7 @@ An array is a linear data structure that stores multiple elements of the same ty
 ---
 
 ## ⚙️ Key Characteristics
-- Fixed size (defined at declaration)
+- Fixed size (defined at declaration).
 - Indexed access
 - Stores elements in order
 - Fast access using index
